@@ -4,6 +4,8 @@ This is a demo React + Three.js project to create Solar System prototype.
 Planet sizes proportions are close to real ones. Planet's speed around it's axes and around sun are also close to the truth.
 Sun size made a lot smaller on purpose.
 
+Demo link: https://dimahoperskiy.github.io/solar-system/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
