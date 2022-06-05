@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/solar-system/static/css/main.8acf5b12.chunk.css",
+    "main.js": "/solar-system/static/js/main.d2c4b0d6.chunk.js",
+    "main.js.map": "/solar-system/static/js/main.d2c4b0d6.chunk.js.map",
+    "runtime-main.js": "/solar-system/static/js/runtime-main.64124c70.js",
+    "runtime-main.js.map": "/solar-system/static/js/runtime-main.64124c70.js.map",
+    "static/js/2.a1962864.chunk.js": "/solar-system/static/js/2.a1962864.chunk.js",
+    "static/js/2.a1962864.chunk.js.map": "/solar-system/static/js/2.a1962864.chunk.js.map",
+    "static/js/3.7843e2e2.chunk.js": "/solar-system/static/js/3.7843e2e2.chunk.js",
+    "static/js/3.7843e2e2.chunk.js.map": "/solar-system/static/js/3.7843e2e2.chunk.js.map",
+    "index.html": "/solar-system/index.html",
+    "static/css/main.8acf5b12.chunk.css.map": "/solar-system/static/css/main.8acf5b12.chunk.css.map",
+    "static/js/2.a1962864.chunk.js.LICENSE.txt": "/solar-system/static/js/2.a1962864.chunk.js.LICENSE.txt",
+    "static/media/asteroid.83eccd8b.jpg": "/solar-system/static/media/asteroid.83eccd8b.jpg",
+    "static/media/earth.ca9e8806.jpg": "/solar-system/static/media/earth.ca9e8806.jpg",
+    "static/media/jupiter.3e84533e.jpeg": "/solar-system/static/media/jupiter.3e84533e.jpeg",
+    "static/media/mars.33960f5a.jpg": "/solar-system/static/media/mars.33960f5a.jpg",
+    "static/media/mercury.8f80953b.jpg": "/solar-system/static/media/mercury.8f80953b.jpg",
+    "static/media/moon.7e1ad9ea.jpg": "/solar-system/static/media/moon.7e1ad9ea.jpg",
+    "static/media/sun.b34e6ead.jpg": "/solar-system/static/media/sun.b34e6ead.jpg",
+    "static/media/venus.b4312567.jpg": "/solar-system/static/media/venus.b4312567.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64124c70.js",
+    "static/js/2.a1962864.chunk.js",
+    "static/css/main.8acf5b12.chunk.css",
+    "static/js/main.d2c4b0d6.chunk.js"
+  ]
+}
